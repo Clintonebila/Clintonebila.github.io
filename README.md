@@ -2,7 +2,7 @@
 
 ## Course Portfolios
 
-- MLU-SEN 307: UI/UX Design and Product Management(https://Clintonebila.github.io/mlu-sen307-portfolio)
+- MLU-SEN 307: UI/UX Design and Product Management ( https://Clintonebila.github.io/mlu-sen307-portfolio )
 
 ## Contact 
 - Email: egberibine.clinton2024@mlugalilee.edu.ng
